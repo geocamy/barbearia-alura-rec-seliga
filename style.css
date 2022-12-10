@@ -1,9 +1,12 @@
 #barbearia-alura-rec-seliga
 
-body{
-  background: #CCCCCC
+body {
+   background: #CCCCCC
 }
 p {
    text-aling: center;
 }
 
+strong {
+    color: red;
+}
